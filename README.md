@@ -7,13 +7,16 @@
   <div>
     <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/svg/18.svg" alt="Go Gopher" height="72">
   </div>
-### 📫 Contacts
-![Telegram]((https://t.me/doyoualot)
-- 🎓 МГТУ им. Н. Э. Баумана
 
 </div>
+## 🔐 About me
+- Application Security / SDLC hardening  
+- Threat modeling, secure code review, CI/CD security gates  
+- Automating SAST/DAST/SCA, policy-as-code, metrics & governance  
+- 🎓 МГТУ им. Н. Э. Баумана
 
----
+### 📫 Contacts
+- Telegram: [@doyoualot](https://t.me/doyoualot)
 
 
 ## 🛡️ AppSec Toolbox
