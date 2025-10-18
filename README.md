@@ -9,29 +9,6 @@
 
 </div>
 
----
-
-## 🔐 About me
-- Application Security / SDLC hardening  
-- Threat modeling, secure coding reviews, CI/CD security gates  
-- Automating SAST/DAST/SCA, policy-as-code, metrics & governance
-
----
-<!-- Profile header -->
-<div align="center">
-
-  <!-- Центровая иконка AppSec (щит) -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/shield.svg" alt="AppSec Shield" height="88">
-
-  <!-- Заголовок -->
-  <h3>AppSec • Secure SDLC • SAST/DAST • DevSecOps</h3>
-
-  <!-- Соц. бейджи -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white"></a>
-
   <!-- Гофер справа как акцент -->
   <div>
     <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/svg/18.svg" alt="Go Gopher" height="72">
