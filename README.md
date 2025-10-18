@@ -4,7 +4,7 @@
   <!-- Go Gopher -->
   <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/svg/18.svg" alt="Go Gopher" height="90">
 
-  <h1>Привет! Я Егор 👋</h1>
+  <h1>Hello! About me 👋</h1>
   <p><b>AppSec • Secure SDLC • SAST/DAST • DevSecOps</b></p>
 
   <!-- Quick links -->
@@ -32,6 +32,7 @@
 - 🎓 МГТУ им. Н. Э. Баумана
 
 ### 📫 Контакты
+- Name: Egor Kondratev
 - Telegram: [@doyoualot](https://t.me/doyoualot)
 
 ---
