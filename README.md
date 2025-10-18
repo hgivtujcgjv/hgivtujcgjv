@@ -28,7 +28,7 @@
 ## 🔐 Обо мне
 - Application Security / укрепление SDLC  
 - Threat modeling, secure code review, CI/CD security gates  
-- Автоматизация SAST/DAST/SCA, policy-as-code, метрики и говернанс  
+- Автоматизация SAST/DAST/SCA, policy-as-code 
 - 🎓 МГТУ им. Н. Э. Баумана
 
 ### 📫 Контакты
