@@ -1,11 +1,5 @@
 <!-- Profile header -->
-<div align="center">
-### AppSec • Secure SDLC • SAST/DAST • DevSecOps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white)](#)
 
 </div>
 
@@ -13,6 +7,17 @@
   <div>
     <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/svg/18.svg" alt="Go Gopher" height="72">
   </div>
+### 📫 Contacts
+- Telegram: [@doyoualot](https://t.me/doyoualot)
+</div>
+<div align="center">
+### AppSec • Secure SDLC • SAST/DAST • DevSecOps
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white)](#)
+- 🎓 МГТУ им. Н. Э. Баумана
 
 </div>
 
