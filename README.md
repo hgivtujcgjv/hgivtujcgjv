@@ -1,23 +1,40 @@
-<!-- Profile header -->
+<!-- ===== Hero / Header ===== -->
+<div align="center">
 
+  <!-- Go Gopher -->
+  <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/svg/18.svg" alt="Go Gopher" height="90">
+
+  <h1>Привет! Я Егор 👋</h1>
+  <p><b>AppSec • Secure SDLC • SAST/DAST • DevSecOps</b></p>
+
+  <!-- Quick links -->
+  <a href="https://t.me/doyoualot">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
 
 </div>
 
-  <!-- Гофер справа как акцент -->
-  <div>
-    <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/svg/18.svg" alt="Go Gopher" height="72">
-  </div>
+---
 
-</div>
-## 🔐 About me
-- Application Security / SDLC hardening  
+## 🔐 Обо мне
+- Application Security / укрепление SDLC  
 - Threat modeling, secure code review, CI/CD security gates  
-- Automating SAST/DAST/SCA, policy-as-code, metrics & governance  
+- Автоматизация SAST/DAST/SCA, policy-as-code, метрики и говернанс  
 - 🎓 МГТУ им. Н. Э. Баумана
 
-### 📫 Contacts
+### 📫 Контакты
 - Telegram: [@doyoualot](https://t.me/doyoualot)
 
+---
 
 ## 🛡️ AppSec Toolbox
 
@@ -46,8 +63,7 @@
 
 ✔️ **Plan** → threat modeling (STRIDE), security requirements  
 ✔️ **Code** → secure patterns, linters, **SAST (CodeQL/Semgrep/Checkmarx)**  
-✔️ **Build** → SBOM, SCA, secrets scanning, POLICY as code  
+✔️ **Build** → SBOM, SCA, secrets scanning, policy-as-code  
 ✔️ **Test** → **DAST (Burp/ZAP)**, fuzzing, SCA, unit/sec tests  
 ✔️ **Deploy** → image signing, admission policies, runtime hardening  
 ✔️ **Operate** → monitoring, vuln mgmt, feedback loop into backlog
-
