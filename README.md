@@ -34,7 +34,7 @@
 ### 📫 Контакты
 - Name: Egor Kondratev
 - Telegram: [@doyoualot](https://t.me/doyoualot)
-
+- LinkedIn: (https://www.linkedin.com/in/egor-kondratev-2b736438b/)
 ---
 
 ## 🛡️ AppSec Toolbox
